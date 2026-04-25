@@ -2,6 +2,8 @@
 
 <div align="center">
 
+![GitHub stars](https://img.shields.io/github/stars/Poornachandra77/100-data-analytics-projects?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Poornachandra77/100-data-analytics-projects?style=social)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Poornachandra77.100-data-analytics-projects)
 
 **100 curated Data Analytics, Machine Learning & Business Intelligence projects —**  
